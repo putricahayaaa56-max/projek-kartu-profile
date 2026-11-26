@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Latihan 5: semua warna dipindah ke sini. Uji: ubah nilai primary,
+     semua warna yang memakainya ikut berubah. -->
+<resources>
+    <color name="primary">#9DC183</color>
+    <color name="surface">#F4F1FF</color>
+    <color name="text_muted">#6B6580</color>
+</resources>
